@@ -16,7 +16,6 @@
 # try: telnet localhost 1234 (on another terminal)
 # type c to close connection
 # use Ctrl-c as keyboard interrupt to kill the program
-#
 # Format adopted from
 # http://www.binarytides.com/python-socket-server-code-example/
 
